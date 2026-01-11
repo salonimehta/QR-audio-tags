@@ -1,0 +1,8 @@
+{
+  "name": "QR-Audio App",
+  "description": "Create and scan QR codes that play voice messages instantly. Perfect for interactive exhibits, greeting cards, or audio labels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
